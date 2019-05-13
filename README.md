@@ -11,11 +11,14 @@ You can show places with Welsh or Gaelic place names with this file, or all in E
 
 I hope you find this useful. 
 
-**Alasdair Rae**<br/>
+**Alasdair Rae**
+<br/>
+<br/>
 13 May 2019
 
-![North Wales example](/screenshots/north_wales.png)
-![North Wales example](/screenshots/hebrides.png)
-![North Wales example](/screenshots/north_wales.png)
-![North Wales example](/screenshots/north_wales.png)
+![Merseyside example](/screenshots/merseyside_etc.png)<br/>
+![North Wales example](/screenshots/north_wales.png)<br/>
+![Hebrides example](/screenshots/hebrides.png)<br/>
+![Font size example](/screenshots/gb_places_font_size.png)<br/>
+![Label case example](/screenshots/gb_places_label_case.png)<br/>
 
