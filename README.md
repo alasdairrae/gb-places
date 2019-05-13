@@ -17,8 +17,18 @@ I hope you find this useful.
 13 May 2019
 
 ![Merseyside example](/screenshots/merseyside_etc.png)<br/>
+
+
 ![North Wales example](/screenshots/north_wales.png)<br/>
+
+
 ![Hebrides example](/screenshots/hebrides.png)<br/>
+
+
 ![Font size example](/screenshots/gb_places_font_size.png)<br/>
+
+
 ![Label case example](/screenshots/gb_places_label_case.png)<br/>
+
+
 
