@@ -1,7 +1,7 @@
 # Great Britain - Populated Places
 A point file of populated places in Great Britain (from Ordnance Survey open data)
 
-This repository contains a file with over 42,000 place names for populated places in Great Britain. I put it together using Ordnance Survey's OS Open Names data: https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-names.html
+This repository contains a file with over 42,000 place names for populated places in Great Britain. I put it together using [Ordnance Survey's OS Open Names dataset](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-names.html).
 
 I've shared the shapefile, geopackage and geojson versions of the file here, in addition to a zipped QGIS project that you can just download and open.
 
